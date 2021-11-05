@@ -16,12 +16,20 @@ Group Name : SUKUNA
 5.Ratima Chinwong 623020042-0
 
 สารบัญเนิ้อหา
+
 วิชา Data Warehouse & Data Mining 
  *บทที่ 1 [Introduction](https://github.com/suphalaksana/DWDM21/blob/main/Chapter-1.pdf)
+ 
    *ความหมายของ Data mining
+   
    *มุมมองหลายมิติของ Data mining
+   
    *ประเภทของข้อมูล
+   
    *ชนิดของรูปแบบ
+   
    *ประเภทของเทคโนโลยีที่ใช้
+   
    *แอปพลิเคชั่นประเภทใดที่เป็นเป้าหมาย
+   
    *ประเด็นสำคัญในการทำ Data mining

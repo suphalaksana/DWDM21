@@ -134,7 +134,22 @@ Group Name : SUKUNA
        * define
        * trsin
        * evaluation
-   * [ชีทเรียน+ เลคเชอร์ บทที่ 6](https://github.com/suphalaksana/DWDM21/blob/main/Chapter%208..pdf)
-
+   * [ชีทเรียน+ เลคเชอร์ บทที่ 6.1](https://github.com/suphalaksana/DWDM21/blob/main/Chapter%208..pdf)
+   * [ชีทเรียน+ เลคเชอร์ บทที่ 6.2](https://github.com/suphalaksana/DWDM21/blob/main/Chapter%209.pdf)
+   * [การบ้านคำนวณมือ](https://github.com/suphalaksana/DWDM21/blob/main/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%20(%E0%B8%84%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%93%E0%B8%A1%E0%B8%B7%E0%B8%AD).pdf)
+ * บทที่ 7 [Clustering](https://github.com/suphalaksana/DWDM21/blob/main/Chap8_Clustering.ipynb)
+   * K-means
+     * Generate Data
+     * Explore data
+     * Clustering
+       * import
+       * define
+       * train - predict
+       * 3 clusters
+       * 4 clusters
+       * 5 clusters
+   * Color Quantization
+     * นับจำนวนสี   
+   * [ชีทเรียน+ เลคเชอร์ บทที่ 7](https://github.com/suphalaksana/DWDM21/blob/main/10ClusBasic.pdf)
   
     

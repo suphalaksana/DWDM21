@@ -152,4 +152,6 @@ Group Name : SUKUNA
      * นับจำนวนสี   
    * [ชีทเรียน+ เลคเชอร์ บทที่ 7](https://github.com/suphalaksana/DWDM21/blob/main/10ClusBasic.pdf)
   
-    
+ *[MiniExam](https://github.com/suphalaksana/DWDM21/blob/main/MiniExam.ipynb)
+ *[Final Project](https://github.com/suphalaksana/DWDM21/blob/main/Project_SUKUNA.ipynb)
+ 

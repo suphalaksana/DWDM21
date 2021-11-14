@@ -156,5 +156,5 @@ Group Name : SUKUNA
  
  *[Final Project](https://github.com/suphalaksana/DWDM21/blob/main/Project_SUKUNA.ipynb)
  
-   *[slide present project SUKUNA](https://github.com/suphalaksana/DWDM21/blob/main/Project%20Final.pdf)
+      *[slide present project](https://github.com/suphalaksana/DWDM21/blob/main/Project%20Final.pdf)
  

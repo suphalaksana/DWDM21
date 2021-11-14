@@ -132,7 +132,7 @@ Group Name : SUKUNA
      * สร้างโมเดลทำนาย
        * import
        * define
-       * trsin
+       * train
        * evaluation
    * [ชีทเรียน+ เลคเชอร์ บทที่ 6.1](https://github.com/suphalaksana/DWDM21/blob/main/Chapter%208..pdf)
    * [ชีทเรียน+ เลคเชอร์ บทที่ 6.2](https://github.com/suphalaksana/DWDM21/blob/main/Chapter%209.pdf)
@@ -154,4 +154,5 @@ Group Name : SUKUNA
   
  *[MiniExam](https://github.com/suphalaksana/DWDM21/blob/main/MiniExam.ipynb)
  *[Final Project](https://github.com/suphalaksana/DWDM21/blob/main/Project_SUKUNA.ipynb)
+   *[slide present project](https://github.com/suphalaksana/DWDM21/blob/main/Project%20Final.pdf)
  
